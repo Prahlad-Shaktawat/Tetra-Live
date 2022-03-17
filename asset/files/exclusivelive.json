@@ -1,0 +1,30 @@
+ {
+  "exclusiveLive":[
+    {
+      "image" : "Imag.live_img7",
+      "live_show":  " LIVE ",
+      "view":"3K",
+      "title" : "Streaming ",
+      "name"  : "PINKFLYOD",
+      "ticket": "BUY TICKETS"
+
+    },
+    {
+      "image" : "Imag.live_img7",
+      "live_show":  " LIVE ",
+      "view":"3K",
+      "title" : "Streaming ",
+      "name"  : "PINKFLYOD",
+      "ticket": "BUY TICKETS"
+
+    },
+    {
+      "image" : "Imag.live_img7",
+      "live_show":  " LIVE ",
+      "view":"3K",
+      "title" : "Streaming ",
+      "name"  : "PINKFLYOD",
+      "ticket": "BUY TICKETS"
+    }
+  ]
+ }
